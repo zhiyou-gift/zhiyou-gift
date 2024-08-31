@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+我是一个来自河源的普通学生，虽然有众多的爱好比如说打球，摄影，打游戏，也是因为喜欢打游戏所以希望在未来从事相关游戏行业的工作，现在正在向游戏客户端开发方向努力，希望自己能够有机会展示自己。
 <!--
 **zhiyou-gift/zhiyou-gift** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
